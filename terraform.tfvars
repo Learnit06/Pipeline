@@ -6,7 +6,7 @@ client_secret   = "p5t8Q~a4Liwszc7euAfqxt8JIWdVhMN634k5odiw"
 
 #resourcegroup
 rgname = "SQL"
-rglocation = "eastus"
+rglocation = "westus"
 #servername
 
 server_name = "sql"
